@@ -42,8 +42,3 @@ Our sales analysis dashboard provides valuable insights into product line perfor
 
 ## Data Source
 - **Kaggle**: https://www.kaggle.com/datasets/gabrielsantello/wholesale-and-retail-orders-dataset
-
-## Contributors
-- Anas Abid
-- Othmane El Khayati
-- Saad Darid
